@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "042beab1f3c622b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea2d5ed35da71ac1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a35f19e7e8d84fc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第七章：异方差(Heteroskedasticity).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7f1c51b1d2d1ffc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "1df3c74103a97979",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6b7cb9def2d0385",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5e439d7dcde1fc20",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b243be6fd3544d74",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 304.00152587890625
+  },
+  "right": {
+    "id": "18b4ee319cb7509c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1abb0ddc0aa9fe85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c405c6cddcc681e8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d40ed42639bde4ef",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "第七章：异方差(Heteroskedasticity).md"
+              }
+            }
+          },
+          {
+            "id": "39990c297eaeabf8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "第七章：异方差(Heteroskedasticity).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "278c1b840c05d240",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "d5ed183394ae6b30",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "9496006fc5bc29fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "第七章：异方差(Heteroskedasticity).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 243
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "a35f19e7e8d84fc6",
+  "lastOpenFiles": [
+    "第八章 Further Issues,Model Specification,and Data Problems(其他问题、模型规范和数据问题).md",
+    "第七章：异方差(Heteroskedasticity).md",
+    "第四章：多元线性回归：推论.md",
+    "image/第七章：异方差(Heteroskedasticity)/4e1ccdb47e4bec9c9f7b3c09153e1520_720.png",
+    "image/第七章：异方差(Heteroskedasticity)",
+    "第五章：多元线性回归：渐进性质.md",
+    "image/第四章：多元线性回归：推论/2f88259ce24538053b99c2ea6096e0a8.png",
+    "image/第四章：多元线性回归：推论/ddbfbcd417a2aed991968e108d18821e_720.png",
+    "image/第四章：多元线性回归：推论",
+    "image/未命名.md",
+    "pictures",
+    "计量经济学.md",
+    "stata速查.md",
+    "一元线性回归(The Single Regression Model).md",
+    "CSdiy/第五章：多元线性回归：渐进性质.md",
+    "CSdiy/第四章：多元线性回归：推论.md",
+    "CSdiy/计量经济学.md",
+    "CSdiy/hw2.md",
+    "CSdiy/pictures/Pasted image 20240711152611.png",
+    "CSdiy/pictures/Pasted image 20240711152552.png",
+    "CSdiy/pictures/Pasted image 20240711152224.png",
+    "CSdiy/pictures/Pasted image 20240711150250.png",
+    "CSdiy/pictures/Pasted image 20240711150238.png",
+    "CSdiy/pictures/55f3d2ee50c0c87628497b841905e5d4.png",
+    "CSdiy/pictures/Pasted image 20240708170840.png",
+    "CSdiy/CSAPP（NJU版）.md",
+    "运筹学课件/04a-运输问题（page.103)-6课时.pdf",
+    "运筹学课件/03b-灵敏度分析(page.59)-4课时.pdf",
+    "运筹学课件/03a-线性规划的对偶理论(page.87)-8课时.pdf",
+    "运筹学课件/02b-3-线性规划求解方法(单纯形法).pdf",
+    "运筹学/HW4.pdf",
+    "运筹学/HW4.md",
+    "运筹学/HW5.pdf",
+    "运筹学/HW5.md",
+    "运筹学/HW6.md",
+    "运筹学/HW7.pdf",
+    "运筹学/HW7.md",
+    "运筹学/HW9.md",
+    "运筹学/运筹学读书.md",
+    "运筹学/HW8.md",
+    "运筹学/HW10.md",
+    "CSdiy/Leetcode.md",
+    "CSdiy/体系结构(CS61C).md",
+    "大物3/大物3复习/知识梳理.md",
+    "大物3/大物3复习/有限深势阱.md",
+    "大物3/大物3复习/马原的笔记.md"
+  ]
+}
